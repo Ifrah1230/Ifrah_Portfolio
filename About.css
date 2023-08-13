@@ -9,7 +9,7 @@
 
 nav {
   display: flex;
-  align-items: right;
+  align-items: left;
   justify-content: space-between;
   padding: 50px 150px;
   font-size: large;
