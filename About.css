@@ -124,3 +124,10 @@ div ul li a:hover {
 div ul li a:hover:after {
   width: 100%;
 }
+img{
+   height: 280px;
+
+   width: 250px;
+   border-radius: 10cm;
+vertical-align: auto;
+}
