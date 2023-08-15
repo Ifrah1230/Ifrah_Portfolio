@@ -126,8 +126,9 @@ div ul li a:hover:after {
 }
 img{
    height: 280px;
-
+   margin-left: auto;
+   margin-right: auto;
    width: 250px;
    border-radius: 10cm;
-vertical-align: auto;
+   vertical-align: auto;
 }
