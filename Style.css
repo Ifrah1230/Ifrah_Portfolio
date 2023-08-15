@@ -86,6 +86,7 @@ nav ul li a:hover:after {
 
 .content h3 {
   color: #9c0b54ce;
+    font-size: 75px;
   font-weight: 900;
   line-height: 90px;
   text-transform: inherit;
