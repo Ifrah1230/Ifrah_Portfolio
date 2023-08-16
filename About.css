@@ -1,4 +1,15 @@
 @media (max-width: 768px) {
+  body {
+    font-size: 18px;
+  }
+
+  header {
+    padding: 2rem;
+  }
+
+  section {
+    padding: 4rem;
+  }
   /* Styles for screens up to 768px wide */
 }
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
