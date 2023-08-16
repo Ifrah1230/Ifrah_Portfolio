@@ -76,8 +76,8 @@ nav ul li a:hover:after {
   -webkit-text-fill-color: transparent;
 }
 .content h1 {
-  color: #9c0b54ce;
-  font-size: 75px;
+  color: #75093fce;
+  font-size: 50px;
   font-weight: 900;
   line-height: 90px;
   text-transform: inherit;
@@ -86,7 +86,7 @@ nav ul li a:hover:after {
 
 .content h3 {
   color: #9c0b54ce;
-    font-size: 50px;
+    font-size: 30px;
   font-weight: 900;
   line-height: 90px;
   text-transform: inherit;
